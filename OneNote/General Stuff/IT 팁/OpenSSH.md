@@ -1,0 +1,2 @@
+다른 Windows PC의 폴더 접속 방법  
+[https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)

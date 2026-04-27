@@ -1,0 +1,1 @@
+[https://www.wikihow.com/Delete-a-User-Account-Picture-in-Windows-10](https://www.wikihow.com/Delete-a-User-Account-Picture-in-Windows-10)

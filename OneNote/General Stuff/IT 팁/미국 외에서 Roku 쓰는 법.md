@@ -1,0 +1,1 @@
+[https://www.eyeondemand.com/2016/04/27/how-to-set-up-an-american-roku-box-outside-the-us/](https://www.eyeondemand.com/2016/04/27/how-to-set-up-an-american-roku-box-outside-the-us/)

@@ -1,0 +1,1 @@
+To search for an ==exact phrase==, enclose the phrase in ==quotation marks==. For example, if you type "Frank Lee" and you have notes that include the names Frank Miller, Oliver Lee, and Frank Lee, OneNote finds only those notes that include the exact phrase Frank Lee.

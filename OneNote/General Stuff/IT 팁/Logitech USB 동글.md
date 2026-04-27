@@ -1,0 +1,1 @@
+MX Anywhere 2S 소속 Logi Bolt 동글은 책상 서랍에 있다.

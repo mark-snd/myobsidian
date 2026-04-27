@@ -1,0 +1,2 @@
+[VMware Workstation 17 + MAC OS 12](https://youtu.be/qUTlCoJpQ68) 설치 하기 (How to install MAC OS 12 on VMware workstation 17)
+ ![Embedded YouTube video](https://www.youtube.com/embed/qUTlCoJpQ68?feature=oembed&autoplay=true)
