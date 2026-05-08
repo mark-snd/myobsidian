@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git branch *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh auth *)",
+      "Bash(git push *)",
+      "Bash(git rm *)",
+      "Bash(cat)",
+      "Bash(bash /tmp/analyze_files.sh)",
+      "Bash(xargs -I {} basename {})",
+      "Read(//tmp/**)",
+      "Bash(xargs -I {} bash -c 'echo \"FILE: $\\(basename \\\\\"{}\\\\\"\\)\" && head -10 \"{}\"')"
+    ]
+  }
+}

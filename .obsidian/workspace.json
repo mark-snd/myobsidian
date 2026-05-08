@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d6ac1100698167e4",
-        "type": "split",
+        "id": "c1172c60394f0652",
+        "type": "tabs",
         "children": [
           {
-            "id": "43654320c904557a",
-            "type": "tabs",
-            "dimension": 45.01133786848073,
-            "children": [
-              {
-                "id": "3e6020c76b4da664",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "OneNote/General Stuff/SND Labs/업무용 카드사용.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "업무용 카드사용"
-                }
-              }
-            ]
-          },
-          {
-            "id": "6404c3f47bf67461",
-            "type": "tabs",
-            "dimension": 54.98866213151927,
-            "children": [
-              {
-                "id": "eb60b51e29ae3908",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/marksnd/Library/Mobile Documents/iCloud~md~obsidian/Documents/MainVault",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ✳ Find company address"
-                }
-              }
-            ]
+            "id": "017e0977937a91d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locker/OneNote-Remember/SC제일.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SC제일"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NH",
+                "query": "인터넷",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일상 생활/SKT 집 인터넷 재약정.md",
+                "file": "SND/기타/Neo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SKT 집 인터넷 재약정"
+              "title": "Backlinks for Neo"
             }
           },
           {
@@ -243,54 +185,56 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "eb60b51e29ae3908",
+  "active": "017e0977937a91d0",
   "lastOpenFiles": [
-    "OneNote/General Stuff/SND Labs/업무용 카드사용.md",
-    "OneNote/General Stuff/SND Labs/Day-off app.md",
-    "OneNote/General Stuff/SND Labs/Accounts.md",
-    "OneNote/General Stuff/IT 팁/CMK75 사용법/CMK75 사용법.md",
-    "OneNote/General Stuff/Action Plan/Set up the day for success.md",
-    "OneNote/General Stuff/평창집관련/조의금 답례 문자(완료).md",
-    "OneNote/General Stuff/평창집관련/한전 명의이전.md",
-    "OneNote/General Stuff/평창집관련/KT 인터넷-전화 해결.md",
-    "OneNote/General Stuff/평창집관련/카드관련.md",
-    "OneNote/General Stuff/평창집관련/보험.md",
+    "Locker/OneNote-Remember/NH농협은행.md",
+    "일상 생활/통신사/SKT 집 인터넷 재약정.md",
+    "Agent-OpenClaw/daily/2026-04-21.md",
+    "일상 생활/통신사/SKT인터넷 약정.md",
+    "VAULT_LOG.md",
+    "SND/정관 변경.md",
+    "SND/외부 회의실 사용시.md",
+    "SND/회사공식정보/주소.md",
+    "SND/기타/용산빌딩 SND 와이파이.md",
+    "일상 생활/SKT 집 인터넷 재약정.md",
+    "일상 생활/평창/KT 인터넷-전화 해결.md",
+    "SND/회의/예스24 26-04-20.md",
+    "SND/기타/Neo.md",
+    "SND/People/박유정 후보자.md",
+    "SND/People/Intern 인턴.md",
+    "To-Do List/OneNote 마이그레이션 계획.md",
+    "To-Do List/MOC - To-Do List.md",
+    "To-Do List/덜 급하지만 해볼 일들.md",
+    "To-Do List/Things To Never Forget!.md",
+    "To-Do List/Set up the day for success.md",
+    "To-Do List/Misc..md",
+    "IT tips/Wox.md",
+    "IT tips/Windows To Go.md",
+    "IT tips/Windows profile picture delete.md",
+    "IT tips/Windows Activator.md",
+    "IT tips/Win 8.1 Pro 정품키.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "SND/Projects",
+    "Pasted image 20260430192134.png",
+    "코로나19생활지원비 신청서 및 위임장, 유급휴가미제공확인서.pdf",
+    "Jabra Elite 75t WLC User Manual_ANC_KO_Korean_RevA.pdf",
+    "isolation_notice.pdf",
+    "Exported image 20260428061101-2.png",
+    "Exported image 20260428061100-1.png",
+    "Exported image 20260428061058-0.png",
+    "Exported image 20260428061055-1.png",
+    "Exported image 20260428061053-0.png",
     "Exported image 20260428071755-0.png",
-    "OneNote/General Stuff/평창집관련/야자매트.md",
-    "OneNote/General Stuff/평창집관련/스카이라이프.md",
-    "OneNote/General Stuff/평창집관련/매매 소유권이전등기.md",
-    "OneNote/General Stuff/평창집관련/농협은행.md",
-    "OneNote/General Stuff/평창집관련/상속등기.md",
-    "OneNote/General Stuff/평창집관련/등기처리 법무사.md",
-    "OneNote/General Stuff/평창집관련/자동차 관련 추가 서류.md",
-    "OneNote/General Stuff/평창집관련/매도 양도소득세.md",
-    "OneNote/General Stuff/평창집관련/토지.md",
-    "OneNote/General Stuff/평창집관련/비과세 계좌.md",
-    "OneNote/General Stuff/평창집관련/코나 내비 업데이트.md",
-    "OneNote/General Stuff/평창집관련/코나 명의 변경.md",
-    "OneNote/General Stuff/평창집관련/상속인 금융거래조회 접수번호.md",
     "Exported image 20260428071733-0.png",
-    "OneNote/General Stuff/평창집관련/Action items.md",
     "OneNote/General Stuff/평창집관련",
-    "OneNote/General Stuff/통신사/동건 알뜰폰 검토.md",
     "Exported image 20260428071722-1.png",
     "Exported image 20260428071721-0.png",
-    "OneNote/General Stuff/통신사/유심칩.md",
-    "Exported image 20260428071717-1.png",
-    "Exported image 20260428071715-0.png",
-    "Exported image 20260428071708-0.png",
-    "Exported image 20260428071702-0.png",
     "OneNote/General Stuff/통신사",
-    "Exported image 20260428071648-0.png",
-    "Exported image 20260428071638-0.png",
     "OneNote/General Stuff/집_이사",
     "OneNote/General Stuff/자동차",
     "OneNote/General Stuff/여행과 놀이/아난티 남해",
     "OneNote/General Stuff/여행과 놀이",
-    "Exported image 20260428065712-1.tiff",
-    "Exported image 20260428065507-0.tiff",
-    "Exported image 20260428063233-0.tiff",
-    "OneNote/General Stuff/쇼핑아이템",
     "무제.canvas"
   ]
 }

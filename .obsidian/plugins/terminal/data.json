@@ -163,7 +163,7 @@
   },
   "defaultProfile": "developerConsole",
   "terminalOptions": {
-    "documentOverride": null,
-    "fontSize": 12
+    "fontSize": 12,
+    "documentOverride": null
   }
 }

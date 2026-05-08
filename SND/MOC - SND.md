@@ -1,5 +1,6 @@
 ---
 tags: [snd, company, moc]
+updated: 2026-05-08
 ---
 
 # MOC - SND
@@ -9,10 +10,14 @@ SND 회사 업무 관련 노트 모음.
 ## 회사공식정보
 - [[주소]]
 - [[업종]]
-- [[2025-10-31 회의]]
 
-## Accounts
+## 회의록 (SND/회의/)
+- [[예스24 26-04-20]] — YES24 서버임대·IDC 계약·AX Platform 파일럿 논의
+- [[회의_20251028]]
+
+## Accounts (SND/Accounts/)
 - [[공용 계정]]
+- [[Paperclip]] — MacStudio 설치, AI 조직화 도구
 - [[AI tools]]
 - [[Cloudflare]]
 - [[OpenRouter]]
@@ -29,7 +34,20 @@ SND 회사 업무 관련 노트 모음.
 - [[하나카드(법인)]]
 - [[정부과제]]
 - [[계약서 - 세포아소프트]]
-- [[회의_20251028]]
+- [[법인 렌터카 검토]]
+- [[법인카드 사용처 기록]]
+
+## 계약·법무
+- [[주식매수선택권 계약]]
+- [[정관 변경]]
+- [[양도자산 세금계산서 발행]]
+
+## People (SND/People/)
+- [[Intern 인턴]]
+
+## Projects (SND/Projects/)
+- [[Post-training project review]]
+- [[VIP meeting]]
 
 ## 기타
 - [[용산빌딩 SND 와이파이]]

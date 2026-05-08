@@ -1,5 +1,9 @@
 Locker/
 *.mdenc
-OneNote/General Stuff/SND Labs/Accounts.md
 .trash/
 .DS_Store
+
+# Sensitive: company / personal accounts
+SND/Accounts/
+**/Accounts.md
+OneNote/General Stuff/SND Labs/Accounts.md  # legacy path, kept for historical commits

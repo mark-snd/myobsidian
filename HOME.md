@@ -1,30 +1,63 @@
 ---
 tags: [index, moc]
+updated: 2026-05-08
+note: OneNote 405개 노트 이전 완료 (2026-05-08)
 ---
 
-# 🏠 Vault Home
+# Vault Home
 
-> Central index for all notes. Navigate by topic.
+> 볼트 전체 콘텐츠 카탈로그. 질문에 답하기 전 항상 여기를 먼저 읽는다.
+> 운영 기록: [[VAULT_LOG]]
 
-## Topics
+## 개인 생활
 
 | 폴더 | 설명 | MOC |
 |------|------|-----|
-| [[MOC - 일상 생활]] | 보험, 생활용품, 가족 | 일상 생활 |
-| [[MOC - 온라인셀러]] | 쿠팡/스마트스토어, 소싱, 강좌 | 온라인셀러 |
-| [[MOC - 인천스카이뷰]] | 아파트 구매, 입주, 인테리어 | 인천스카이뷰 |
-| [[MOC - 동영상제작]] | 유튜브, AI 영상, 편집 | 동영상제작 |
-| [[MOC - Blog]] | 블로그 운영, SEO, 애드센스 | Blog |
-| [[MOC - Career]] | 직장, 이직, 코칭, 연락처 | Career |
-| [[MOC - Coding]] | 개발, 자동화, Spring | Coding |
-| [[MOC - Investing]] | 주식, 채권, 배당 | Investing |
-| [[MOC - IT 기기]] | 키보드, 폰, 충전기, 모니터 | IT 기기 |
-| [[MOC - IT tips]] | 맥, 윈도우, 설정 팁 | IT tips |
-| [[MOC - 분류전]] | 미분류 노트 | 분류전 |
-| [[MOC - Locker]] | 계정 정보 | Locker |
-| [[MOC - To-Do List]] | 할 일 목록 | To-Do List |
+| 일상 생활/ | 보험, 가족, 건강 + 서브폴더: 요리·자동차·통신사·여행·평창·기타 | [[MOC - 일상 생활]] |
+| 인천스카이뷰/ | 아파트 구매, 입주, 인테리어 + 이사/ 서브폴더 (120동 3403호) | [[MOC - 인천스카이뷰]] |
+| To-Do List/ | 할 일 목록, 핵심 원칙, 루틴 | [[MOC - To-Do List]] |
+
+## 수입·투자
+
+| 폴더 | 설명 | MOC |
+|------|------|-----|
+| 온라인셀러/ | 쿠팡/스마트스토어, 소싱, 세금, 강좌 | [[MOC - 온라인셀러]] |
+| Investing/ | 주식, 채권, 배당, ETF | [[MOC - Investing]] |
+| Blog/ | 블로그 운영, SEO, 애드센스, 네이버 노하우 | [[MOC - Blog]] |
+| 동영상제작/ | 유튜브, AI 영상, 편집 | [[MOC - 동영상제작]] |
+
+## 커리어·회사
+
+| 폴더 | 설명 | MOC |
+|------|------|-----|
+| Career/ | 직장, 이직, 코칭, 연락처 | [[MOC - Career]] |
+| SND/ | SND 회사: 계정, 계약, 회의록 | [[MOC - SND]] |
+| SND/Accounts/ | 법인 서비스·도구 계정 관리 | — |
+| SND/회의/ | 회의록 전용 (날짜순) | — |
+| SND/Projects/ | 프로젝트 검토, VIP 미팅 | — |
+| SND/People/ | 인턴, 직원 관련 | — |
+
+## 기술·지식
+
+| 폴더 | 설명 | MOC |
+|------|------|-----|
+| AI/ | AI/LLM 실험, 브리핑, 모델 분석 | [[MOC - AI]] |
+| Coding/ | 개발, 자동화, Spring | [[MOC - Coding]] |
+| IT 기기/ | 키보드, 폰, 충전기, 모니터 | [[MOC - IT 기기]] |
+| IT tips/ | 맥, 윈도우, 폰, 엑셀 팁 — 214개 (OneNote 204개 이전) | [[MOC - IT tips]] |
+
+## 자료 보관
+
+| 폴더 | 설명 |
+|------|------|
+| raw/articles/ | 원본 기사 클리핑 (불변) |
+| raw/papers/ | 논문, 리포트 (불변) |
+| raw/transcripts/ | 팟캐스트·강의 녹취 (불변) |
+| raw/assets/ | 이미지, 첨부파일 (불변) |
+| 분류전/ | 미분류 노트 (주기적 정리 필요) | [[MOC - 분류전]] |
+| Locker/ | 계정 정보 — **읽지 않음** (OneNote-Remember/ 54개 포함) | — |
 
 ## Daily Journals
 
-- [[MOC - 2024 Journal]] — 2024년 일기 (Apr–Nov, 117개)
-- [[MOC - 2026 Journal]] — 2026년 일기 (Jan–Apr, 22개)
+- [[MOC - 2024 Journal]] — 2024년 일기 (Apr–Nov, 118개)
+- [[MOC - 2026 Journal]] — 2026년 일기 (Jan–May, 27개+)

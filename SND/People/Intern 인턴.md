@@ -10,3 +10,7 @@
 - 급여: 270만원
 - 출근일: 5/6
 - 장비: 본인 노트북이 10년 된 것이라 회사에서 노트북 지급 필요
+
+계약서 등 양식 있는 곳
+'/Users/marksnd/Library/CloudStorage/GoogleDrive-mark@sndworks.ai/My Drive/02 People(Confidential)/인턴'
+
