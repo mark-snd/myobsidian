@@ -67,7 +67,7 @@
 ## 볼트 메타데이터
 
 ### Vault Overview
-- Location: `/Users/mark/Library/Mobile Documents/iCloud~md~obsidian/Documents/MainVault`
+- Location: `/Users/marksnd/Documents/MainVault`
 - 300+ markdown notes across 16 folders
 - Mixed Korean and English content
 - Owner: Mark Kim (마크 김)
