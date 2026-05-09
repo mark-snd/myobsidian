@@ -61,3 +61,8 @@ append-only. grep 가능한 형식으로 유지.
 - octet-stream 4개: 실제 JPEG/PNG 확인 후 올바른 확장자로 변환 → _attachments/ 이동
 - tiff 2개: sips로 PNG 변환 → _attachments/ 이동 (Obsidian TIFF 미지원)
 - 참조 노트 6개 링크 업데이트 (Blog, To-Do List×3, IT tips×2)
+
+## [2026-05-09] lint | 2024 일기 전체 삭제
+- 삭제: 2024/ 폴더 전체 (일기 117개 + MOC + 월별 서브폴더 8개)
+- 사유: 마크쌤 판단 — 재활용 가치 없음
+- HOME.md에서 2024 Journal 항목 제거

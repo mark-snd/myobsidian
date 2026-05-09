@@ -59,5 +59,4 @@ note: OneNote 405개 노트 이전 완료 (2026-05-08)
 
 ## Daily Journals
 
-- [[MOC - 2024 Journal]] — 2024년 일기 (Apr–Nov, 118개)
 - [[MOC - 2026 Journal]] — 2026년 일기 (Jan–May, 27개+)
