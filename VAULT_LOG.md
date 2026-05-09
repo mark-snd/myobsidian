@@ -56,3 +56,8 @@ append-only. grep 가능한 형식으로 유지.
 - 이동: 루트 이미지 123개 → _attachments/ 폴더 신설 후 이동
 - 링크 변환: 85개 노트의 ![](Exported%20image%20...) → ![[Exported image ...]] (Obsidian 위키링크)
 - Obsidian 첨부파일 기본 경로: app.json → attachmentFolderPath: "_attachments"
+
+## [2026-05-09] lint | 비정상 확장자 이미지 6개 교정
+- octet-stream 4개: 실제 JPEG/PNG 확인 후 올바른 확장자로 변환 → _attachments/ 이동
+- tiff 2개: sips로 PNG 변환 → _attachments/ 이동 (Obsidian TIFF 미지원)
+- 참조 노트 6개 링크 업데이트 (Blog, To-Do List×3, IT tips×2)

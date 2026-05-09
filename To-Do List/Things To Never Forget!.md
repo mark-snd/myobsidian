@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020260428060819-0.octet-stream)
+![[Exported image 20260428060819-0.jpeg]]
 
 Patience! Other two things will also come true! Eat less and less!  
 Review the worst before taking an action!

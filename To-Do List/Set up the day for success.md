@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020260428060824-0.octet-stream)
+![[Exported image 20260428060824-0.png]]
 
 **Wed 2023-11-08**  
 **Personal**
