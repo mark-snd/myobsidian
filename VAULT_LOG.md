@@ -49,3 +49,10 @@ append-only. grep 가능한 형식으로 유지.
 ## [2026-05-08] query | OneNote General Stuff 노트북 이전 완료 확인
 - 14개 섹션 전부 처리됨: 13개 이전, 쇼핑아이템·Action Plan 2개는 오래된 내용으로 사용자가 삭제
 - 누락 섹션 없음
+
+## [2026-05-09] lint | 볼트 이미지 구조 정리
+- 볼트 위치 변경: iCloud → /Users/marksnd/Documents/MainVault (CLAUDE.md 업데이트)
+- 삭제: SND/Accounts/우리카드(법인).md (정보 불필요, 사용자 요청)
+- 이동: 루트 이미지 123개 → _attachments/ 폴더 신설 후 이동
+- 링크 변환: 85개 노트의 ![](Exported%20image%20...) → ![[Exported image ...]] (Obsidian 위키링크)
+- Obsidian 첨부파일 기본 경로: app.json → attachmentFolderPath: "_attachments"

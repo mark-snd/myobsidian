@@ -9,7 +9,7 @@ In order to try to reduce the noise from the NUC, we can try to set the fan to q
  
 Intel Community 에 있는 사람이 제공한 아래 세팅으로 해결
 
-![CPU Fan Header Fan Control Mode Primary Temperatur...](Exported%20image%2020260428061649-0.png)
+![[Exported image 20260428061649-0.png]]
 
 Petrous 라는 친구의 설명  
 And the fan is always running but not very fast.  

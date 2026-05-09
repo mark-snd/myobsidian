@@ -16,7 +16,7 @@
 
 - 설정 \> Keyboard \> Keyboard Shortcuts \> Input Sources 가 아래와 같이 기본 설정 체크 되어야 한다.
 
-![Launchpad Dock isplay Mission Control Keyboard Inp...](Exported%20image%2020260428061123-0.png)   
+![[Exported image 20260428061123-0.png]]   
 위 plist 설정 61 항목의 기본 값은 원래 786432 임(아래 참고)
 
-![O Find com.apple.symbolichotkeys.plist com.apple.s...](Exported%20image%2020260428061124-1.png)
+![[Exported image 20260428061124-1.png]]

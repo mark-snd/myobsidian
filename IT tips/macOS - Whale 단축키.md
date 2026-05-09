@@ -7,4 +7,4 @@ Raycast 활용
 Raycast script: ~/raycast-scripts에 있다.  
 위 폴더에 가면 아래 script가 있으니 열어서 확인해봐라.
 
-![Exported image](Exported%20image%2020260428061235-0.png)
+![[Exported image 20260428061235-0.png]]

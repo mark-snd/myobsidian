@@ -7,7 +7,7 @@ User: Pasword 9669
 **오디오** **사용하지** **않기**  
 고급세션 설정 단계에서 로컬리소스 \> 설정 \> 원격오디오 사용하지 않음 옵션 선택하면 된다
 
-![F M C H T M.. 0 N](Exported%20image%2020260428061428-0.png)  
+![[Exported image 20260428061428-0.png]]  
 
 고급 세션 변경을 위해 고급세션 설정 팝업을 띄울 필요가 있을 때는 아래와 같이 하라.
 
@@ -21,7 +21,7 @@ User: Pasword 9669
 메모리가 모자라다고 하고 부팅 안 될 때  
 메뉴바 상의 되돌리기 아이콘을 눌러서 이전 검사점으로 이동하면 된다
 
-![MARKNLJCQI Win 10 Pro VM F meA M 0 V](Exported%20image%2020260428061429-1.png)
+![[Exported image 20260428061429-1.png]]
 
 Hyper-V 설치  
 설정방법 안내 블로그  
@@ -34,7 +34,7 @@ Hyper-V 설치
 Guest PC (VM)에 Windows 10 Pro가 설치되어야 Enhanced Session 이 열리고 로컬 기기 연결 메뉴가 나온다  
 Enhanced Session 적용하면 로그인 화면이 안 뜨는 문제 해결방법  
 [https://www.itexperience.net/blurred-logon-screen-in-hyperv-enhanced-session/](https://www.itexperience.net/blurred-logon-screen-in-hyperv-enhanced-session/)
- ![Use Local Devices and Resources on HyperV Virtual ...](Exported%20image%2020260428061431-2.png)  
+ ![[Exported image 20260428061431-2.png]]  
 
 [2023-04-08]  
 VM Name: Mark-VM  
@@ -54,7 +54,7 @@ D:\Hyper-V\VM1\Virtual Hard Disks (VM files)
  
 Result: At least, the folder structure is as what I expected.
 
-![Machine generated alternative text Import Virtual ...](Exported%20image%2020260428061433-3.png)
+![[Exported image 20260428061433-3.png]]
 
 **가상** **컴퓨터** **연결**
    

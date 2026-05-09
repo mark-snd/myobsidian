@@ -16,8 +16,8 @@
 이 친구 [How to Fix PC Not Waki](https://youtu.be/BHZzFyBrdXk)ng Up From Sleep Mode In Windows 10/8.1/7  
 아래와 같이 제어판 \> 전원 옵션에서 설정하면 괜찮다.
 
-![Exported image](Exported%20image%2020260428061541-0.png)  
-![H PCI Express E](Exported%20image%2020260428061543-1.png)  
+![[Exported image 20260428061541-0.png]]  
+![[Exported image 20260428061543-1.png]]  
 
 윈도우 절전 관련 어떤 설정을 해도 시간이 지나서 화면이 꺼지면 마우스나 키보드 입력이 들어가도 화면이 깨어나지 않는 문제  
 윈도우를 재설치해도 동일 현상이 반복되는 것을 볼 때 보안모듈이나 윈도우 설정 문제는 아닌 것 같다.  
@@ -35,7 +35,7 @@
  
 아래 것 원래 체크된 건데 언체크 해보란다 (이것도 소용없음)
 
-![Machine generated alternative text w ettings T on ...](Exported%20image%2020260428061545-2.png)  
+![[Exported image 20260428061545-2.png]]  
 
 아래 대화에 있는 방법도 다 안 먹힘  
 My computer won't wake up from sleep. I have to do a hard reboot to get it work. My only work around is the "put in never sleep".

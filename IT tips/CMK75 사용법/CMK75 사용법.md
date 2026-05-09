@@ -33,7 +33,7 @@ Windows 설정
     - Karabiner에서 아래와 같이 설정한다.
     - Simple Modifications로 가서 CMK75는 ROYUAN이라는 걸로 인식
     - 아래 그림과 같이 설정했다. (4/2/25 6:42 AM 기준, 이게 안 먹힘)
-- ![Exported image](Exported%20image%2020260428061111-0.png)
+- ![[Exported image 20260428061111-0.png]]
     - Home, End 는 Arrows Key 카테고리에 있다.
     - 원래 PgUp은 CMD + 상향 화살표, PgDn은 CMD + 하향 화살표로 사용하면 된다. 
 **4/2/25 6:44 AM** **기준****,** **적용한** **방법** **-** Karabiner \> Complex Modifications 에서 Add your own rule에 2개의 rules를 추가했다.

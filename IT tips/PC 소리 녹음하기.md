@@ -7,7 +7,7 @@
 **보기에서** **장치** **Bar** **나오게** **하고**  
 Windows WASAPI, 마이크는 현재 사용 중인 스피커(이어폰)의 loopback을 선택한다.
 
-![Exported image](Exported%20image%2020260428061203-0.png)  
+![[Exported image 20260428061203-0.png]]  
 
 문제점  
 회의 녹음할 때 내 목소리는 저장할 수 없다. Source는 1개만 선택할 수 있고 Source로 스피커(이어폰)를 선택하면 상대방 목소리만 녹음된다.

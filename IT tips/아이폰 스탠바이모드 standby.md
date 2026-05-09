@@ -29,10 +29,10 @@ Slack app 설치했다. 일단 잘 된다!
 이 단축어 다운로드 링크  
 [https://www.icloud.com/shortcuts/e281ee2c25e4475ba5ccf2154164522b](https://www.icloud.com/shortcuts/e281ee2c25e4475ba5ccf2154164522b)
 
-![Always On For Broke People V2 Repeat 500 times Get...](Exported%20image%2020260428061058-0.png)
+![[Exported image 20260428061058-0.png]]
 
 이 아래 얘는 잘 된다는데, 배터리 저전력 모드로 정말 잘 될까?
 
-![Standby Get Is Connected to Charger If Battery Sta...](Exported%20image%2020260428061100-1.png)
+![[Exported image 20260428061100-1.png]]
 
-![Set Low Power Mode This action is not supported on...](Exported%20image%2020260428061101-2.png)
+![[Exported image 20260428061101-2.png]]

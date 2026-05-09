@@ -1,2 +1,2 @@
 [https://superuser.com/questions/1002443/unknown-symbol-in-an-excel-spreadsheet-cell](https://superuser.com/questions/1002443/unknown-symbol-in-an-excel-spreadsheet-cell)
- ![Heres a screenshot Friday Saturday 31 The symbol i...](Exported%20image%2020260428061333-0.png)
+ ![[Exported image 20260428061333-0.png]]
