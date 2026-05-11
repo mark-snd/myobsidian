@@ -2,6 +2,8 @@ Locker/
 *.mdenc
 .trash/
 .DS_Store
+.stfolder/
+.stversions/
 
 # Sensitive: company / personal accounts
 SND/Accounts/

@@ -1,5 +1,0 @@
-// Per-device Syncthing ignore list.
-// .git/ is intentionally NOT replicated — each machine maintains its own git repo
-// and synchronizes via the GitHub remote, not Syncthing.
-.git
-.git/**
